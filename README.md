@@ -5,6 +5,8 @@ Addin para gestionar volúmenes, áreas de los elementos y sus materiales.
  -----------------------------
 > [!NOTE]
 > Revit 2024
+> Tutorial: https://youtu.be/4tYcY_TVQ3c
+
 
 ---------------------------------
 ## PROYECTO ARCHIVOS
